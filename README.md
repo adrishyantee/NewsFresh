@@ -7,9 +7,9 @@
 
 ### User can:
 
--View a number of top general news by scrolling below
--Watch the details of the news i.e, image, headlines and the author
--Click on the image to view the detailed article to it
+- View a number of top general news (scroll down to get more)
+- Watch the details of the news i.e, image, headlines and the author
+- Click on the image to view the detailed article to it
 
 ### Uses :
 
@@ -19,9 +19,15 @@
 
 # Screenshots :  
 
-  <img src="screenshots/ss1.png" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/ss2.png" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/ss3.png" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/AppSS1.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/AppSS2.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/AppSS3.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+After clicking on a news, you will get redirected to the site to read the full article (in your browser)
+For example: 
+This is the site where I got redirected to.
+ <img src="screenshots/BrowserSS.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 # How to use it?
