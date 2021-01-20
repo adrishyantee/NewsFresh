@@ -5,10 +5,10 @@
 ### Language Used - Kotlin 
 ### API used - NewsApI
 
-### User can
+### User can:
 
 -View a number of top general news by scrolling below
--Watch the details of the news i.e, image, headlines and the author.
+-Watch the details of the news i.e, image, headlines and the author
 -Click on the image to view the detailed article to it
 
 ### Uses :
