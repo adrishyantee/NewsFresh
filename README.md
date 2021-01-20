@@ -25,10 +25,11 @@
 
 After clicking on a news, you will get redirected to the site to read the full article (in your browser)
 For example: 
+
+<img src="screenshots/BrowserSS.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 This is the site where I got redirected to.
- <img src="screenshots/BrowserSS.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 
 # How to use it?
 ### Clone the repo , open it in Android Studio and try it out in your Physical Device or Emulator.
